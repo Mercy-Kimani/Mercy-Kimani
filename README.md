@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mercy-Kimani
-- 👀 I’m interested in statistical genetics
-- 🌱 I’m currently learning microbial GWAS methods
+- 👀 I’m qualified in statistical genetics
+- 🌱 I’m currently working on microbial GWAS methods
 -  📫 Reach me on mwk10@leicester.ac.uk
 
 
