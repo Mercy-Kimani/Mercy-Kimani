@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mercy-Kimani
 - 👀 I’m passionate about statistical genetics
 - 🌱 I’m currently working on microbial genomics methods
--  📫 Reach me on mwk10@leicester.ac.uk or mercyjkimani@outlook.com
+-  📫 Reach me on mwk10@leicester.ac.uk, Kmercy@kemri-wellcome.org or mercyjkimani@outlook.com
 
 
 <!---
